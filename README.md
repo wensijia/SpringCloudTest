@@ -1,1 +1,4 @@
-# SpringCloudTest
+## Changelog
+
+### 1.0.0.20200419
+    1.nacos作为服务注册中心，自带负载均衡，同时可以做为配置中心
